@@ -1,1 +1,3 @@
 # gitskills
+
+ push to Server
